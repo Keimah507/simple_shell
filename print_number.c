@@ -5,6 +5,7 @@
  * @n: unsigned integer to be printed
  * Return: The amount of numbers printed
  */
+
 int print_number(int n)
 {
 	int div;
