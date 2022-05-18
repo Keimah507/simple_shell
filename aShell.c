@@ -7,6 +7,7 @@
  * @av: The name of the program.
  * Return: Always 0.
  */
+
 int main(__attribute__((unused)) int ac, char **av)
 {
 	char *line;
