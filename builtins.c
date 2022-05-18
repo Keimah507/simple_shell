@@ -5,6 +5,7 @@
  * if no parameter is passed it will change directory to HOME.
  * @line: A string representing the input from the user.
  */
+
 void cd_b(char *line)
 {
 	int index;
