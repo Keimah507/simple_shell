@@ -7,6 +7,7 @@
  * Return: Upon sucess a string with the full path of the program.
  * for example /bin/ls, /bin/echo, etc. Otherwise returns NULL.
  */
+
 char *path_finder(char *command)
 {
 	char *str = "PATH";
