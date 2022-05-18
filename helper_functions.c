@@ -4,6 +4,7 @@
  * @str: String that needs length to be found.
  * Return: Upon success returns the length of a string. otherwise 0.
  */
+
 int str_len(char *str)
 {
 	int i;
